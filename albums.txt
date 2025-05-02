@@ -1,24 +1,75 @@
 ALBUM|What's Going On|Marvin Gaye|Soul|1|1971
 SONG|What's Going On|3.53
+SONG|What's Happening Brother|2.43
+SONG|Flyin' High (In the Friendly Sky)|3.49
+SONG|Save the Children|4.03
+SONG|God Is Love|1.42
 SONG|Mercy Mercy Me (The Ecology)|3.16
+SONG|Right On|7.32
+SONG|Wholy Holy|3.08
 SONG|Inner City Blues (Make Me Wanna Holler)|5.26
 
 ALBUM|Pet Sounds|The Beach Boys|Rock|2|1966
 SONG|Wouldn't It Be Nice|2.33
-SONG|God Only Knows|2.54
+SONG|You Still Believe in Me|2.34
+SONG|That's Not Me|2.27
+SONG|Don't Talk (Put Your Head on My Shoulder)|2.51
+SONG|I'm Waiting for the Day|3.06
+SONG|Let's Go Away for Awhile|2.24
 SONG|Sloop John B|2.59
+SONG|God Only Knows|2.54
+SONG|I Know There's an Answer|3.10
+SONG|Here Today|2.55
+SONG|I Just Wasn't Made for These Times|3.21
+SONG|Pet Sounds|2.20
+SONG|Caroline, No|2.53
 
 ALBUM|Blue|Joni Mitchell|Folk|3|1971
 SONG|All I Want|3.32
+SONG|My Old Man|3.33
+SONG|Little Green|3.27
+SONG|Carey|3.00
+SONG|Blue|3.00
+SONG|California|3.50
+SONG|This Flight Tonight|2.50
 SONG|River|4.05
 SONG|A Case of You|4.23
+SONG|The Last Time I Saw Richard|4.13
 
 ALBUM|Songs in the Key of Life|Stevie Wonder|R&B|4|1976
+SONG|Love's in Need of Love Today|7.06
+SONG|Have a Talk with God|2.42
+SONG|Village Ghetto Land|3.25
+SONG|Contusion|3.46
 SONG|Sir Duke|3.54
-SONG|Isn't She Lovely|6.33
 SONG|I Wish|4.12
+SONG|Knocks Me Off My Feet|3.36
+SONG|Pastime Paradise|3.27
+SONG|Summer Soft|4.14
+SONG|Ordinary Pain|6.23
+SONG|Isn't She Lovely|6.33
+SONG|Joy Inside My Tears|6.30
+SONG|Black Man|8.29
+SONG|Ngiculela – Es Una Historia – I Am Singing|3.48
+SONG|If It's Magic|3.13
+SONG|As|7.08
+SONG|Another Star|8.08
 
 ALBUM|Abbey Road|The Beatles|Rock|5|1969
 SONG|Come Together|4.20
 SONG|Something|3.03
+SONG|Maxwell's Silver Hammer|3.27
+SONG|Oh! Darling|3.26
+SONG|Octopus's Garden|2.51
+SONG|I Want You (She's So Heavy)|7.47
 SONG|Here Comes the Sun|3.06
+SONG|Because|2.45
+SONG|You Never Give Me Your Money|4.02
+SONG|Sun King|2.26
+SONG|Mean Mr. Mustard|1.06
+SONG|Polythene Pam|1.12
+SONG|She Came in Through the Bathroom Window|1.57
+SONG|Golden Slumbers|1.31
+SONG|Carry That Weight|1.36
+SONG|The End|2.20
+SONG|Her Majesty|0.23
