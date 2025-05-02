@@ -73,3 +73,52 @@ SONG|Golden Slumbers|1.31
 SONG|Carry That Weight|1.36
 SONG|The End|2.20
 SONG|Her Majesty|0.23
+
+ALBUM|I Never Loved a Man the Way I Love You|Aretha Franklin|Soul|13|1967
+SONG|Respect|2.27
+SONG|Drown in My Own Tears|4.06
+SONG|I Never Loved a Man (The Way I Love You)|2.45
+SONG|Soul Serenade|2.39
+SONG|Don't Let Me Lose This Dream|2.22
+SONG|Baby, Baby, Baby|2.57
+SONG|Dr. Feelgood (Love Is Serious Business)|3.22
+SONG|Good Times|2.09
+SONG|Do Right Woman, Do Right Man|3.16
+SONG|Save Me|2.19
+SONG|A Change Is Gonna Come|4.19
+
+ALBUM|It Takes a Nation of Millions to Hold Us Back|Public Enemy|Hip Hop|15|1988
+SONG|Countdown to Armageddon|1.40
+SONG|Bring the Noise|3.46
+SONG|Don't Believe the Hype|5.19
+SONG|Cold Lampin' with Flavor|4.17
+SONG|Terminator X to the Edge of Panic|4.31
+SONG|Mind Terrorist|1.21
+SONG|Louder Than a Bomb|3.37
+SONG|Caught, Can We Get a Witness?|4.53
+SONG|Show 'Em Whatcha Got|1.56
+SONG|She Watch Channel Zero?!|3.49
+SONG|Night of the Living Baseheads|3.14
+SONG|Black Steel in the Hour of Chaos|6.23
+SONG|Security of the First World|1.20
+SONG|Rebel Without a Pause|5.02
+SONG|Prophets of Rage|3.18
+SONG|Party for Your Right to Fight|3.25
+
+ALBUM|To Pimp a Butterfly|Kendrick Lamar|Hip Hop|19|2015
+SONG|Wesley's Theory|4.47
+SONG|For Free? (Interlude)|2.10
+SONG|King Kunta|3.54
+SONG|Institutionalized|4.31
+SONG|These Walls|5.00
+SONG|U|4.28
+SONG|Alright|3.39
+SONG|For Sale? (Interlude)|4.51
+SONG|Momma|4.43
+SONG|Hood Politics|4.52
+SONG|How Much a Dollar Cost|4.21
+SONG|Complexion (A Zulu Love)|4.23
+SONG|The Blacker the Berry|5.28
+SONG|You Ain't Gotta Lie (Momma Said)|4.01
+SONG|i|5.36
+SONG|Mortal Man|12.07
