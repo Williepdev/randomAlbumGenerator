@@ -1,0 +1,24 @@
+ALBUM|What's Going On|Marvin Gaye|Soul|1|1971
+SONG|What's Going On|3.53
+SONG|Mercy Mercy Me (The Ecology)|3.16
+SONG|Inner City Blues (Make Me Wanna Holler)|5.26
+
+ALBUM|Pet Sounds|The Beach Boys|Rock|2|1966
+SONG|Wouldn't It Be Nice|2.33
+SONG|God Only Knows|2.54
+SONG|Sloop John B|2.59
+
+ALBUM|Blue|Joni Mitchell|Folk|3|1971
+SONG|All I Want|3.32
+SONG|River|4.05
+SONG|A Case of You|4.23
+
+ALBUM|Songs in the Key of Life|Stevie Wonder|R&B|4|1976
+SONG|Sir Duke|3.54
+SONG|Isn't She Lovely|6.33
+SONG|I Wish|4.12
+
+ALBUM|Abbey Road|The Beatles|Rock|5|1969
+SONG|Come Together|4.20
+SONG|Something|3.03
+SONG|Here Comes the Sun|3.06
